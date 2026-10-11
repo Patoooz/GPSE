@@ -19,8 +19,6 @@ Trello Link :
 
 https://trello.com/b/sy7gkZyp/gpms
 
-Documentation File :
+Drive Link :
 
-[GPMS Use Cases By Role.pdf](https://github.com/user-attachments/files/33312127/GPMS.Use.Cases.By.Role.pdf)
-
-Drive Link : https://drive.google.com/drive/folders/1z-_jzTXgctfoVknJe6XUlLEy0cfycJTk?usp=sharing
+https://drive.google.com/drive/folders/1z-_jzTXgctfoVknJe6XUlLEy0cfycJTk?usp=sharing
